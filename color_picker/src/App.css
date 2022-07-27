@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+#colors{
+  margin-top: 5vw;
+  display: flex;
+  justify-content: center;
+  gap: 0.5vw;
+  margin-bottom: 2vw;
+}
+#colors div{
+  width: 5vw;
+  height:5vw;
+  border:1px solid;
+}
+#res{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5vw;
+  width: 20vw;
+  height:5vw;
+  border:1px solid;
+}
